@@ -25,12 +25,12 @@
     "react-infinite-scroll-component": "^6.1.0",
     "sass": "^1.42.1",
     "styled-components": "^5.3.1",
-    "yup": "^0.32.9"
+    "yup": "0.32.11"
   },
   "devDependencies": {
     "@types/react": "17.0.26",
     "@types/styled-components": "^5.1.14",
-    "@types/yup": "^0.29.13",
+    "@types/yup": "0.29.14",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
     "prettier": "^2.4.1",
