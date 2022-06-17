@@ -24,12 +24,12 @@
     "react-dom": "17.0.2",
     "react-infinite-scroll-component": "^6.1.0",
     "sass": "^1.42.1",
-    "styled-components": "^5.3.1",
+    "styled-components": "5.3.5",
     "yup": "^0.32.9"
   },
   "devDependencies": {
     "@types/react": "17.0.26",
-    "@types/styled-components": "^5.1.14",
+    "@types/styled-components": "5.1.25",
     "@types/yup": "^0.29.13",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
